@@ -9,6 +9,6 @@ spring:
       server:
         git:
           username: CucumberJar
-          password: Vbhrf2006V
-          uri: https://github.com/CucumberJar/config.git
+          password: 123GitMMM
+          uri: https://github.com/CucumberJar/SCConfig
           default-label: main
